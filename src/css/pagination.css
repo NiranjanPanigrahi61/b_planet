@@ -1,0 +1,38 @@
+.pagination {
+    flex-grow: 1;
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  
+  .pageButton {
+    margin: 0px 5px;
+    background-color: transparent;
+    border: 1px solid rgb(154, 84, 162);
+    border-radius: 5px;
+    padding: 2px 5px;
+    height: 50px;
+    width: 50px;
+    color: black;
+  }
+  
+  .icon:hover {
+    background-color: rgb(154, 84, 162);
+    color: black;
+  }
+  
+  .icon:disabled {
+    background-color: rgb(217, 189, 223);
+    color: black;
+  }
+  
+  .pageText {
+    background-color: rgb(217, 189, 223);
+    color: #ffffff;
+  }
+  
+  .pageText:disabled {
+    color: black;
+  }

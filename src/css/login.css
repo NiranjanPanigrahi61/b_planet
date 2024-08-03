@@ -1,0 +1,125 @@
+.main {
+  height: 800px;
+  width: auto;
+  margin: 30px;
+  background-color: white;
+}
+
+.logindiv {
+  display: grid;
+  grid-template-columns: 1fr 2fr; /* Adjust the grid columns to be equal */
+  gap: 10px;
+  height: 500px;
+  border: 2px solid green;
+  margin: 0 200px;
+}
+
+.imgdiv {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: gray;
+  border-right: 2px solid black;
+  height: 500px;
+}
+
+.imgdiv img {
+  /* max-width: 100%; */
+  width: 100px;
+  
+}
+
+.container {
+  padding: 40px;
+  width: 400px;
+  height: 450px;
+  
+}
+
+h1 {
+  font-size: 2rem;
+  margin-bottom: 10px;
+}
+
+p {
+  font-size: 1rem;
+  margin-bottom: 20px;
+  color: #555;
+}
+
+label {
+  display: block;
+  margin-bottom: 10px;
+  font-weight: bold;
+}
+
+input[type="email"], input[type="password"] {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-sizing: border-box;
+}
+
+input[type="email"] {
+  color: green;
+  font-size: 25px;
+}
+
+input[type="password"] {
+  color: #000;
+}
+
+button {
+  width: 100%;
+  padding: 10px;
+  background-color: #b5a08e;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  font-size: 1rem;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #a28c7b;
+}
+
+.forget-password {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+  font-size: 0.875rem;
+  color: #888;
+}
+
+.forget-password a {
+  color: #888;
+  text-decoration: none;
+}
+
+.forget-password a:hover {
+  text-decoration: underline;
+}
+
+.signup {
+  text-align: center;
+  font-size: 0.875rem;
+  margin-top: 20px;
+}
+
+.signup a {
+  color: green;
+  text-decoration: none;
+}
+
+.signup a:hover {
+  text-decoration: underline;
+}
+
+.ltopheading {
+  margin: 55px 45px;
+  font-size: 50px;
+}
