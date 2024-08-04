@@ -1,12 +1,12 @@
 import React from "react";
 import Nav from "./Nav";
 import "../css/about.css";
-import user from "../resouse/user1.jpg";
+import user from "../resouse/user.png";
 function About(){
-    const name="Priti";
-    const email="puja@gmail.com";
+    const name="Niranjan";
+    const email="Neon@gmail.com";
     const pass="123456";
-    const pno="7847993120";
+    const pno="7847689312";
     const addr="Patia,Bhubaneswar";
     const zip="751024";
     const state="Odisha";

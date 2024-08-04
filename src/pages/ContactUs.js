@@ -7,12 +7,6 @@ function ContactUs() {
   return (
    
     <div>
-       <div>
-      <h1 className='topheading'>Contact Us Page</h1>
-    
-      
-    </div>
-    
       <Contact />
     </div>
   

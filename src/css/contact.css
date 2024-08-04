@@ -60,6 +60,12 @@
     color: black;
    
   }
+  .cform input,textarea{
+    width: 95%;
+  }
+  .cform button{
+    width: 40%;
+  }
   
  
   

@@ -2,9 +2,9 @@
     display: grid;
     grid-template-columns: repeat(4, 1.5fr);
     gap: 10px 10px;
-    background-color: rgb(27, 26, 28);
+    background-color: rgb(228, 228, 207);
     margin: 40px;
-    border: 2px solid black;
+    border: 10px solid rgb(228, 228, 207);
 }
 .card{
     display: flex;
@@ -12,14 +12,14 @@
     background-color: white;
     height: 200px;
     padding: 20px;
-    margin: 5px;
+    /* margin: 5px; */
     align-items: center;
 
 }
 .productdivision{
     background-color:white;
-    border: 1px solid black;
-    height: 1600px;
+    /* border: 1px solid black; */
+    min-height: 700px;
 }
 .topheading{
     margin:55px 45px;

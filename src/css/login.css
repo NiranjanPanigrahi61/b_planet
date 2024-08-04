@@ -15,9 +15,11 @@
 }
 
 .imgdiv {
-  display: flex;
-  justify-content: center;
-  align-items: center;
+  display: block;
+  /* justify-content: center;
+  align-items: center; */
+  text-align: center;
+
   background-color: gray;
   border-right: 2px solid black;
   height: 500px;
@@ -25,8 +27,9 @@
 
 .imgdiv img {
   /* max-width: 100%; */
-  width: 100px;
-  
+  margin-top:250px ;
+  height: 250px;
+  width: 250px;
 }
 
 .container {
@@ -88,6 +91,7 @@ button:hover {
 
 .forget-password {
   display: flex;
+  flex-direction: column;
   justify-content: space-between;
   align-items: center;
   margin-bottom: 20px;
