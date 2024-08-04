@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/b_planet/static/css/main.8c188d85.css",
-    "main.js": "/b_planet/static/js/main.35820e83.js",
+    "main.css": "/b_planet/static/css/main.6454986b.css",
+    "main.js": "/b_planet/static/js/main.65b3e8fc.js",
     "static/js/453.b5b6d855.chunk.js": "/b_planet/static/js/453.b5b6d855.chunk.js",
     "static/media/fa-solid-900.ttf": "/b_planet/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
     "static/media/fa-brands-400.ttf": "/b_planet/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
@@ -10,7 +10,8 @@
     "static/media/fa-brands-400.woff2": "/b_planet/static/media/fa-brands-400.bb8d5a145e22822103fb.woff2",
     "static/media/Hero image 1.png": "/b_planet/static/media/Hero image 1.6b3b63436e6091445dfa.png",
     "static/media/fa-regular-400.ttf": "/b_planet/static/media/fa-regular-400.17a6e1aebccdbaa39e78.ttf",
-    "static/media/user1.jpg": "/b_planet/static/media/user1.954041ddf7c3236e8eb1.jpg",
+    "static/media/Login in page image.png": "/b_planet/static/media/Login in page image.840b16884f24f039b7ac.png",
+    "static/media/user.png": "/b_planet/static/media/user.6c3b25a5f50b410b0599.png",
     "static/media/fa-regular-400.woff2": "/b_planet/static/media/fa-regular-400.bc3722686635b5f86132.woff2",
     "static/media/image 18.png": "/b_planet/static/media/image 18.392db54b7b832f95ec3f.png",
     "static/media/image 19.png": "/b_planet/static/media/image 19.c28094999f34ec42b2cc.png",
@@ -29,12 +30,12 @@
     "static/media/image 7.png": "/b_planet/static/media/image 7.92bec972a0497ac5c775.png",
     "static/media/fa-v4compatibility.woff2": "/b_planet/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
     "index.html": "/b_planet/index.html",
-    "main.8c188d85.css.map": "/b_planet/static/css/main.8c188d85.css.map",
-    "main.35820e83.js.map": "/b_planet/static/js/main.35820e83.js.map",
+    "main.6454986b.css.map": "/b_planet/static/css/main.6454986b.css.map",
+    "main.65b3e8fc.js.map": "/b_planet/static/js/main.65b3e8fc.js.map",
     "453.b5b6d855.chunk.js.map": "/b_planet/static/js/453.b5b6d855.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8c188d85.css",
-    "static/js/main.35820e83.js"
+    "static/css/main.6454986b.css",
+    "static/js/main.65b3e8fc.js"
   ]
 }
